@@ -1,6 +1,6 @@
 # Hello GitHub
 
-This is my first repository, created wile learning how Git and GitHub work.
+This is my first repository, created while learning how Git and GitHub work.
 
 ## What this is
 
